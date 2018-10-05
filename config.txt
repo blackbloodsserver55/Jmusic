@@ -1,4 +1,4 @@
-token=(process.env.BOT_TOKEN)
+token=process.env.BOT_TOKEN
 owner=337457211875917834 
 prefix=1
 game=Type 1play
